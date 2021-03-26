@@ -7,7 +7,6 @@
 
 
 #📫 How to Reach Me
-This site was built using [GitHub Pages](https://github.com/MuharremCandan).This site was built using [LinkedIn](https://github.com/MuharremCandan).
 [![Linkedin Badge](https://www.troya-eng.com/wp-content/uploads/2019/04/linkedin.png)](https://www.linkedin.com/in/muharrem-candan-a840161bb/)
 
 

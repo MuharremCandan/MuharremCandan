@@ -7,12 +7,10 @@
 
 
 
-<img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" />
-<img src="https://2.bp.blogspot.com/-O8KkAXgEJ_o/WjZdRgXrX6I/AAAAAAAAAKo/Dp7b7MC8DH4lF1TQBRo8MMDexpGIiwRmwCLcBGAs/s1600/TFYXEMdY.png" width="50" height="50" />
-<img src="https://pythontips.com/" width="50" height="50" />
+<img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" /><img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" /><img src="https://pythontips.com/" width="70" height="70" />
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="200" height="400" />
+
+
 
 
 

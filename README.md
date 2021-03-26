@@ -10,7 +10,7 @@
 # How to Reach Me
 
 [<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/) [<img src="https://www.yonetimdeinsan.com/wp-content/uploads/2017/01/instagram.png" width="50" height="50" />](https://www.instagram.com/mrr.muho/)
-[<img src="http://www.penege.com/wp-content/uploads/2017/02/twitter-logo-01.png" width="50" height="50" />](https://twitter.com/mhrrm_cndn)
+[<img src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" width="50" height="50" />](https://twitter.com/mhrrm_cndn)
 
 
 

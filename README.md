@@ -3,6 +3,16 @@
 
 ## ✔️I'am a Miço in a ship which has just got sail from port to life  whose dreams are leading his life.
 
+
+You can use the diff language tag to generate some colored text:
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 # 💻Muharrem Candan's Infos
 
 <a href="https://github.com/MuharremCandan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muharremcandan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>

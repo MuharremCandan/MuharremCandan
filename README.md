@@ -1,5 +1,5 @@
 # 🥳 Hi guys 
-Hayalleri hayatının kaptanlığını yapan, limandan daha taptaze yazılım serüvenine yelken açan bir gemide Miço.
+## Hayalleri hayatının kaptanlığını yapan, limandan daha taptaze yazılım serüvenine yelken açan bir gemide Miço.
 
 # 📚 Learning & Interested 
 

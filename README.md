@@ -4,9 +4,7 @@
 
 # 📚 Learning & Interested 
 
-<img src="http://berkayyolcu.com/resimler/c.png" width="100" height="100" />
-<img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="100" height="100" />
-<img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="100" height="100" />
+<img src="http://berkayyolcu.com/resimler/c.png" width="100" height="100" />   <img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="100" height="100" />    <img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="100" height="100" />
 
 
 # How to Reach Me

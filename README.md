@@ -13,9 +13,9 @@ You can use the diff language tag to generate some colored text:
 <a href="https://github.com/MuharremCandan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muharremcandan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
 # 📚 Learning & Interested
-```
+
 <img src="http://berkayyolcu.com/resimler/c.png" width="70" height="70" />   <img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" />    <img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="70" height="70" />
-```
+
  
 # 🤝 How to Reach Me
 

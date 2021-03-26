@@ -9,7 +9,7 @@
 
 # How to Reach Me
 
-[![<img src="https://www.troya-eng.com/wp-content/uploads/2019/04/linkedin.png" width="70" height="70" />]](https://www.linkedin.com/in/muharrem-candan-a840161bb/)
+[<img src="https://www.troya-eng.com/wp-content/uploads/2019/04/linkedin.png" width="70" height="70" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/)
 
 
 

@@ -7,7 +7,7 @@
 
 
 
-<img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" /><img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" /><img src="https://pythontips.com/" width="70" height="70" />
+<img src="http://berkayyolcu.com/resimler/c.png" width="70" height="70" /><img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" /><img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="70" height="70" />
 
 
 

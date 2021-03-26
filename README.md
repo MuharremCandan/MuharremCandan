@@ -4,12 +4,12 @@
 
 # 📚 Learning & Interested 
 
-<img src="http://berkayyolcu.com/resimler/c.png" width="70" height="70" /><img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" /><img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="70" height="70" />
+<img src="http://berkayyolcu.com/resimler/c.png" width="100" height="100" /><img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="100" height="100" /><img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="100" height="100" />
 
 
 # How to Reach Me
 
-[<img src="https://www.troya-eng.com/wp-content/uploads/2019/04/linkedin.png" width="70" height="70" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/)[<img src="https://www.yonetimdeinsan.com/wp-content/uploads/2017/01/instagram.png" width="70" height="70" />](https://www.instagram.com/mrr.muho/)
+[<img src="https://www.troya-eng.com/wp-content/uploads/2019/04/linkedin.png" width="50" height="50" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/)[<img src="https://www.yonetimdeinsan.com/wp-content/uploads/2017/01/instagram.png" width="50" height="50" />](https://www.instagram.com/mrr.muho/)
 
 
 

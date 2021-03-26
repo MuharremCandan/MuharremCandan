@@ -1,4 +1,4 @@
-# 🥳 ```diff Hi Guys```
+# 🥳 ```Hi Guys```
 ## ✔️ Hayalleri hayatının kaptanlığını yapan, limandan daha taptaze yazılım serüvenine yelken açan bir gemide Miço.🇹🇷
 
 ## ✔️I'am a Miço in a ship which has just got sail from port to life  whose dreams are leading his life.
@@ -7,17 +7,17 @@
 You can use the diff language tag to generate some colored text:
 
 
-# ```diff 💻Muharrem Candan's Infos```
+# ```💻Muharrem Candan's Infos```
 
 <a href="https://github.com/MuharremCandan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muharremcandan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
 <a href="https://github.com/MuharremCandan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muharremcandan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
-# ```diff 📚 Learning & Interested```
+# ```📚 Learning & Interested```
 
 <img src="http://berkayyolcu.com/resimler/c.png" width="70" height="70" />   <img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" />    <img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="70" height="70" />
 
  
-# ```diff 🤝 How to Reach Me```
+# ```🤝 How to Reach Me```
 
 [<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/) 
 [<img src="https://play-lh.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180-rw" width="50" height="50" />](https://www.instagram.com/mrr.muho/)

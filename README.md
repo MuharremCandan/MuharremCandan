@@ -7,7 +7,6 @@
 
 
 
-![](https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png )
 <img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="50" height="50" />
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

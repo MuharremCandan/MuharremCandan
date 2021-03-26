@@ -1,6 +1,8 @@
 # 🥳 Hi guys 
 ## Hayalleri hayatının kaptanlığını yapan, limandan daha taptaze yazılım serüvenine yelken açan bir gemide Miço.
 
+## I'am a Miço in a ship which has just got sail from port to life  whose dreams are leading his life 
+
 # 📚 Learning & Interested 
 
 <img src="http://berkayyolcu.com/resimler/c.png" width="100" height="100" />   <img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="100" height="100" />    <img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="100" height="100" />

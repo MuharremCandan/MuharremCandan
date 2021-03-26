@@ -7,7 +7,7 @@
 
 
 
-![Image of Yaktocat ](https://miro.medium.com/max/700/0*SxX1UD9Ok_VaCgO-.png)
+![Image of Yaktocat ](https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 

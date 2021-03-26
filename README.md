@@ -10,6 +10,7 @@
 # How to Reach Me
 
 [<img src="https://www.yonetimdeinsan.com/wp-content/uploads/2017/01/linkedin.png" width="50" height="50" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/)             [<img src="https://www.yonetimdeinsan.com/wp-content/uploads/2017/01/instagram.png" width="50" height="50" />](https://www.instagram.com/mrr.muho/)
+[<img src="https://landairseaproductions.com/wp-content/uploads/2019/03/transparent-twitter-logo-wwwimgkidcom-the-image-kid-2605.png" width="50" height="50" />](https://www.instagram.com/mrr.muho/)
 
 
 

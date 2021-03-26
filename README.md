@@ -9,7 +9,7 @@
 
 # How to Reach Me
 
-[<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/) [<img src="https://www.yonetimdeinsan.com/wp-content/uploads/2017/01/instagram.png" width="50" height="50" />](https://www.instagram.com/mrr.muho/)
+[<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/) [<img src="https://play-lh.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180-rw" width="50" height="50" />](https://www.instagram.com/mrr.muho/)
 [<img src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" width="50" height="50" />](https://twitter.com/mhrrm_cndn)
 
 

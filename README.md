@@ -7,7 +7,7 @@
 
 
 
-![Image of Yaktocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40tahaburak%2Fjava-9-ile-gelen-yenilikler-1edd965a52ca&psig=AOvVaw1Xq1Y8oObsBsQVawxgslTA&ust=1616874780896000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCR5ozezu8CFQAAAAAdAAAAABAE)
+![Image of Yaktocat](https://miro.medium.com/max/700/0*SxX1UD9Ok_VaCgO-.png)
 
 
 

@@ -1,4 +1,4 @@
-# ```-🥳Hi Guys```
+# ```diff 🥳Hi Guys in red ```
 ## ✔️ Hayalleri hayatının kaptanlığını yapan, limandan daha taptaze yazılım serüvenine yelken açan bir gemide Miço.🇹🇷
 
 ## ✔️I'am a Miço in a ship which has just got sail from port to life  whose dreams are leading his life.

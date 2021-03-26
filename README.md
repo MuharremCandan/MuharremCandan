@@ -3,6 +3,11 @@
 
 ## ✔️I'am a Miço in a ship which has just got sail from port to life  whose dreams are leading his life.
 
+# 💻Muharrem Candan's Infos
+
+<a href="https://github.com/MuharremCandan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muharremcandan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
+<a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muharremcandan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+
 # 📚 Learning & Interested 
 
 <img src="http://berkayyolcu.com/resimler/c.png" width="100" height="100" />   <img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="100" height="100" />    <img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="100" height="100" />
@@ -16,8 +21,6 @@
 [<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0/1602698792035?e=1625097600&v=beta&t=aF7WMSz0Di8dWnoQB2-OInrMcaofiIY3V6Ob3lb05as" width="50" height="50" />](https://medium.com/@1muharremcandan)
 
 
-<a href="https://github.com/MuharremCandan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muharremcandan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muharremcandan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
 
 

@@ -1,20 +1,11 @@
-# Hi guys 🥳
-
-
-## 📌 GitHub Stats And Top Languages
-
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="MuharremCandan's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
-
+# 🥳 Hi guys 
 
 # 📚 Learning & Interested 
 
 <img src="http://berkayyolcu.com/resimler/c.png" width="100" height="100" />   <img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="100" height="100" />    <img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="100" height="100" />
 
 
-# How to Reach Me
+# 🤝 How to Reach Me
 
 [<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/) 
 [<img src="https://play-lh.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180-rw" width="50" height="50" />](https://www.instagram.com/mrr.muho/)

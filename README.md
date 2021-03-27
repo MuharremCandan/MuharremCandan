@@ -20,7 +20,7 @@
 [<img src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" width="50" height="50" />](https://twitter.com/mhrrm_cndn)
 [<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0/1602698792035?e=1625097600&v=beta&t=aF7WMSz0Di8dWnoQB2-OInrMcaofiIY3V6Ob3lb05as" width="50" height="50" />](https://medium.com/@1muharremcandan)
 
-
+<p> <img src="https://komarev.com/ghpvc/?username=muharremcandan&label=Profile%20views&color=0e75b6&style=flat" alt="muharremcandan" /> </p>
 
 
 

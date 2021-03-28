@@ -1,4 +1,4 @@
-<h1 align="center">🥳Hi Guys <h1 align="end"><img src="https://komarev.com/ghpvc/?username=muharremcandan&label=Profile%20views&color=0e75b6&style=flat" alt="muharremcandan" /></h1></h1>
+<h1 align="center">🥳Hi Guys </h1>
 
 ## ✔️ Hayalleri hayatının kaptanlığını yapan, limandan daha taptaze yazılım serüvenine yelken açan bir gemide Miço.🇹🇷
 
@@ -23,7 +23,7 @@
 
 
 
-
+<img src="https://komarev.com/ghpvc/?username=muharremcandan&label=Profile%20views&color=0e75b6&style=flat" alt="muharremcandan" />
 
 
 

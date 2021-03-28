@@ -12,7 +12,7 @@
 
 <h2>📚Learning & Interested</h2>
 
-<img src="http://berkayyolcu.com/resimler/c.png" width="70" height="70" /><img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" />    <img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="70" height="70" /><img src="https://sdtimes.com/wp-content/uploads/2018/02/Angular_full_color_logo.svg_-490x490.png" width="70" height="70" /> <h1>... </h1>
+<img src="http://berkayyolcu.com/resimler/c.png" width="70" height="70" /><img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" />    <img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="70" height="70" /><img src="https://sdtimes.com/wp-content/uploads/2018/02/Angular_full_color_logo.svg_-490x490.png" width="70" height="70" />
  
  <h2>🤝How to Reach Me</h2>
 

@@ -24,7 +24,7 @@
 
 <h2>🎇Useful Websites</h2>
 
-[<img src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s640/logo%2Bhackerrank%2Bicon.png" width="50" height="50"/>](https://www.hackerrank.com/MuharremCNDN) 
+[<img src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s640/logo%2Bhackerrank%2Bicon.png" width="50" height="50"/>](https://www.hackerrank.com/MuharremCNDN)[<img src="https://data.apksum.com/b7/com.barinchild.w3school5.rdprangon/2/icon.png" width="50" height="50"/>](https://my-learning.w3schools.com) 
 
 
 <img src="https://komarev.com/ghpvc/?username=muharremcandan&label=Profile%20views&color=0e75b6&style=flat" alt="muharremcandan" />

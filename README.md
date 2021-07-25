@@ -19,7 +19,7 @@
 [<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/) 
 [<img src="https://play-lh.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180-rw" width="50" height="50" />](https://www.instagram.com/mrr.muho/)
 [<img src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" width="50" height="50" />](https://twitter.com/mhrrm_cndn)
-[<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0/1602698792035?e=1625097600&v=beta&t=aF7WMSz0Di8dWnoQB2-OInrMcaofiIY3V6Ob3lb05as" width="50" height="50" />](https://medium.com/@1muharremcandan)
+[<img src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=s180-rw" width="50" height="50" />](https://medium.com/@1muharremcandan)
 
 
 <h2>🎇Useful Websites</h2>

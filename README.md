@@ -9,9 +9,11 @@
 <a href="https://github.com/MuharremCandan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muharremcandan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
 <a href="https://github.com/MuharremCandan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muharremcandan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=15" /></a>
 
+!-- <h2>📚Learning & Interested</h2>
 
+<img src="https://bilisimacademy.com/egitimlerimiz/wp-content/uploads/2021/03/C-Sharp-egitimi.png" width="120" height="70" /><img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" width="70" height="70" />    <img src="https://sinavofisi.com/wp-content/uploads/2021/01/py.png" width="70" height="70" /><img src="https://sdtimes.com/wp-content/uploads/2018/02/Angular_full_color_logo.svg_-490x490.png" width="70" height="70" /> --!
 
- 
+ <!--
  <h2>🤝How to Reach Me</h2>
 
 [<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/muharrem-candan-a840161bb/) 
@@ -23,7 +25,7 @@
 <h2>🎇Useful Websites</h2>
 
 [<img src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s640/logo%2Bhackerrank%2Bicon.png" width="50" height="50"/>](https://www.hackerrank.com/MuharremCNDN)[<img src="https://data.apksum.com/b7/com.barinchild.w3school5.rdprangon/2/icon.png" width="50" height="50"/>](https://my-learning.w3schools.com)[<img src="https://belax8.github.io/images/codewars.png" width="50" height="50"/>](https://www.codewars.com/users/MuharremCandan)[<img src="https://enisnecipoglu.com/wp-content/uploads/2017/01/Stackoverflow-300x286.png" width="50" height="50"/>](https://stackoverflow.com/users/15529649/muharrem) 
-
+-->
 
 <img src="https://komarev.com/ghpvc/?username=muharremcandan&label=Profile%20views&color=0e75b6&style=flat" alt="muharremcandan" />
 
